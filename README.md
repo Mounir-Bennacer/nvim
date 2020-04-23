@@ -14,7 +14,6 @@ Dependencies:
 - fzf
 - ranger
 - hack-nerd-font
-- ranger
 - universal-ctags
 
 ### Install dependencies On MacOS
